@@ -248,7 +248,7 @@ ignore_files = []
 # Only for colorbox currently, it could be adapted for other themes
 # You must place the logo file into the theme's static images folder, which
 # can be done using 'files_to_copy':
-files_to_copy = (('../extra/axe.png', 'static/axe.png'),('../extra/background.png', 'static/background.png'),)
+files_to_copy = (('../extra/axe.png', 'static/axe.png'),('../extra/background.png', 'static/background.jpg'),)
 site_logo = 'axe.png'
 
 # --------
